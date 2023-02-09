@@ -2,11 +2,6 @@
 
 Este es mi super proyecto sgdsdg sdgsdgsdg
 
-- sfgag
-- afsafs
-- asf
-* asfasf
-
 **asfasf** *asfasf* _afsafs_
 
 ## Acknowledgements
